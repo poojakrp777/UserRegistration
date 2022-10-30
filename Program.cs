@@ -14,6 +14,9 @@ namespace UserRegistration
 
             UserRegexPattern.FirstName();
             Console.ReadLine();
+
+            UserRegexPattern.LastName();
+            Console.ReadLine();
         }
     }
 }
